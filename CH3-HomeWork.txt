@@ -1,0 +1,39 @@
+Question 1: Default Parameters
+
+1. Write a function `greet` that takes a parameter `name` and logs "Hello, [name]" to the console. If no name is provided, it should default to "Guest".
+
+Question 2: Function Overloading
+
+2. Create two functions `calculateArea`. The first one takes two parameters `length` and `width` and returns the area of a rectangle. The second one takes one parameter `radius` and returns the area of a circle.
+
+Question 3: Anonymous Functions
+
+3. Write an anonymous function that takes two numbers and returns their product. Assign it to a variable named `multiply` and call it with the arguments 4 and 5.
+
+Question 4: Arrow Functions
+
+4. Create an arrow function `isOdd` that takes a number and returns `true` if the number is odd and `false` otherwise.
+
+Question 5: Higher-Order Functions
+
+5. Write a higher-order function `applyOperation` that takes two numbers and a function as arguments, and applies the function to the numbers. Demonstrate this with an `add` and a `subtract` function.
+
+Question 6: Immediately Invoked Function Expression (IIFE)
+
+6. Create an IIFE that logs "This is an IIFE" to the console.
+
+Question 7: setTimeout
+
+7. Use `setTimeout` to log "Hello after 2 seconds" to the console after a delay of 2 seconds.
+
+Question 8: setInterval
+
+8. Use `setInterval` to log "Repeating every second" to the console every second.
+
+Question 9: Function Hoisting
+
+9. Write a function `hoistedFunction` that logs "This function is hoisted" to the console. Call this function before its declaration to demonstrate hoisting.
+
+Question 10: Arrow Function and Hoisting
+
+10. Write an arrow function `notHoisted` that logs a message to the console. Try calling this function before its declaration and observe what happens.
